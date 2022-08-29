@@ -100,11 +100,11 @@
 	},
 	"sources": {
 		"dice.sol": {
-			"keccak256": "0x6e0ff7dbfdb35bf6353e66a82f503bca2544e5eb26e0609ca2417bb58e0c162a",
+			"keccak256": "0x299a6f7be722a3bcd27d35452aa6f9f82004b6fab63f8d31f96064746e50cefc",
 			"license": "UNLICENSED",
 			"urls": [
-				"bzz-raw://f1903a6ba7b547c04da6a594810d5e849d2c7e8dc3ad0dcf52a73ef839eb9a0c",
-				"dweb:/ipfs/QmeEvJK7GQ1mxGtdr4TftMMUw7t5KaFkBKmeATpHHeciSB"
+				"bzz-raw://39a5205b5c0e5be4e18d53ff34945bcd6bc453e7fb1587615d0271ef5d3f8aad",
+				"dweb:/ipfs/QmWzcG98u6MvTybuYgFkjyoyvr2zEjDda8CEYv7uSCQ15K"
 			]
 		}
 	},

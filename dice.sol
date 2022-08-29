@@ -26,7 +26,7 @@ contract Dice {
         to.transfer(getBalance());
     }
     function dice(uint8 num) public payable {
-        require(msg.value == 3500000000 gwei, "payment value has to 3.5 ether");
+        require(msg.value == 3 ether, "payment value has to 3 ether");
         address payable to = payable(msg.sender);
         to.transfer(num * 1 ether);
     }
